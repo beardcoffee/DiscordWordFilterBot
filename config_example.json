@@ -1,0 +1,12 @@
+{
+  "token": "tokengoeshere",
+  "databaseUrl" : "jdbc:mysql://localhost:3306/discord",
+  "databaseUser" : "testuser",
+  "databasePass" : "password",
+  "logName": "botout.log",
+  "prefix": "!",
+  "roles": [
+    "testing",
+    "admin"
+  ]
+}
